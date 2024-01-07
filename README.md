@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mustafa Aydoğan</h1>
-<h3 align="center">I am Mustafa Aydoğan, a web developer located in Ankara, Türkiye, presently pursuing a degree in computer science at TOBB ETU. My passion lies in the intricate realms of programming, data structures, and algorithm analysis.</h3>
+<h3 align="center">
+  I am Mustafa Aydoğan, a web developer located in Ankara, Türkiye, presently pursuing a degree in computer science at TOBB ETU.
+  My passion lies in the intricate realms of programming, data structures, and algorithm analysis.
+</h3>
 
-
+<br />
 
 - 🔭 I’m currently working on **ShopInsight**
 

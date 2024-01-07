@@ -6,7 +6,7 @@
 
 <br />
 
-- 🔭 I’m currently working on **ShopInsight**
+- 🔭 I’m currently working on [**ShopInsight**](....s)
 
 - 🌱 I’m currently learning **Go, Laravel**
 

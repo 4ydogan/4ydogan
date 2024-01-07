@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Next.js, React, PHP**
 
-- 👨‍💻 My personal blog website [mustafaaydogan.com.tr](https://www.mustafaaydogan.com.tr)
+- 👨‍💻 My personal blog website [mustafaaydogan.com.tr](http://www.mustafaaydogan.com.tr)
 
-- 📝 I regularly write articles on [mustafa-aydogan.medium.com](https://www.mustafa-aydogan.medium.com)
+- 📝 I regularly write articles on [mustafa-aydogan.medium.com](https://mustafa-aydogan.medium.com)
 
 - 📫 How to reach me [info@mustafaaydogan.com.tr](mailto:info@mustafaaydogan.com.tr)
 

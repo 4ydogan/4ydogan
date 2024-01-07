@@ -1,9 +1,8 @@
-<h2 align="center">Hi 👋, I'm Mustafa Aydoğan</h2>
-<h4 align="center">
+<h1 align="center">Hi 👋, I'm Mustafa Aydoğan</h1>
+<h3 align="center">
  a full stack web developer
-</h4>
+</h3>
 
-<br />
 
 - 🔭 I’m currently working on [**ShopInsight**]()
 

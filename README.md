@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go, Laravel**
 
-- 👨‍💻 All of my projects are available at [mustafaaydogan.com.tr](https://www.mustafaaydogan.com.tr)
+- 👨‍💻 My personal blog website [mustafaaydogan.com.tr](https://www.mustafaaydogan.com.tr)
 
 - 📝 I regularly write articles on [mustafa-aydogan.medium.com](https://www.mustafa-aydogan.medium.com)
 

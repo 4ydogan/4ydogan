@@ -1,8 +1,8 @@
 <h1 align="center">
  Hi 👋, I'm Mustafa Aydoğan
- <h2 align="center">
+ <h3 align="center">
    a full stack web developer
- </h2>
+ </h3>
 </h1>
 
 

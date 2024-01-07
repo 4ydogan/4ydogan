@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mustafa Aydoğan</h1>
-<h2 align="center">
- a full stack web developer
-</h2>
+<h1 align="center">
+ Hi 👋, I'm Mustafa Aydoğan
+ <h2 align="center">
+   a full stack web developer
+ </h2>
+</h1>
+
 
 
 - 🔭 I’m currently working on [**ShopInsight**]()

@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Go, Laravel**
 
-- 👨‍💻 All of my projects are available at [mustafaaydogan.com.tr](www.mustafaaydogan.com.tr)
+- 👨‍💻 All of my projects are available at [mustafaaydogan.com.tr](https://www.mustafaaydogan.com.tr)
 
-- 📝 I regularly write articles on [mustafa-aydogan.medium.com](www.mustafa-aydogan.medium.com)
+- 📝 I regularly write articles on [mustafa-aydogan.medium.com](https://www.mustafa-aydogan.medium.com)
 
 - 💬 Ask me about **Next.js, React, PHP**
 

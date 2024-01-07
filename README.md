@@ -23,8 +23,6 @@
 <a href="https://medium.com/@mustafa-aydogan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafa-aydogan" height="30" width="40" /></a>
 </p>
 
-<br />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 

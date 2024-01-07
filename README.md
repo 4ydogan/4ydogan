@@ -1,11 +1,10 @@
 <h1 align="center">
  Hi 👋, I'm Mustafa Aydoğan
- <h3 align="center">
-   a full stack web developer
- </h3>
 </h1>
 
-
+<h3 align="center">
+   a full stack web developer
+ </h3>
 
 - 🔭 I’m currently working on [**ShopInsight**]()
 

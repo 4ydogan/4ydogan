@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Next.js, React, PHP**
 
-- 📫 How to reach me [info@mustafaaydogan.com.tr](**info@mustafaaydogan.com.tr**)
+- 📫 How to reach me [info@mustafaaydogan.com.tr](mailto:info@mustafaaydogan.com.tr)
 
 ### Blogs posts
 

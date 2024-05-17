@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [**ShopInsight**](https://shop-insight.vercel.app/)
 
-- 🌱 I’m currently learning **Go, Laravel**
+- 🌱 I’m currently learning **CodeIgniter 4**
 
 - 💬 Ask me about **Next.js, React, PHP**
 
